@@ -1,1 +1,1 @@
-Spotify interactive login page
+Spotify interactive login page.
